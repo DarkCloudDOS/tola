@@ -1,0 +1,15 @@
+Archive:  tola.zip
+Zip file size: 11397 bytes, number of entries: 12
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 10:58 2.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 10:59 1.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 11:00 3.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 11:01 5.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 17:16 7.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 13:23 6.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Apr-02 16:50 4.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-29 17:16 8.LVL
+-rw-a--     2.0 fat     3600 b- defN 96-Mar-30 11:03 9.LVL
+-rw-a--     2.0 fat     8204 t- defN 96-Jun-20 10:22 TOLA.PAS
+-rwxa--     2.0 fat    15536 b- defN 96-Jul-12 14:58 TOLA.EXE
+-rw-a--     2.0 fat      938 t- defN 96-Oct-18 11:33 READ.ME!
+12 files, 57078 bytes uncompressed, 9389 bytes compressed:  83.6%
